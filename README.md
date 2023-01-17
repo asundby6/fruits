@@ -25,3 +25,10 @@ Views - All the different ways we can see our data, whether it's as a JSON respo
 
 Controllers - Tell us what we can do and connect our views and our models.
 We can think of our routes as our controllers, because they determine how a user can interact with our resources
+
+
+## How we talk about what we're doing
+
+We're using express framework to build a server which uses mongoose to process our requests and run CRUD operations using a mongoDb database.
+
+What we're building is a REST api, that runs full CRUD operations on a single resource. (This will change, eventually)
